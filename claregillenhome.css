@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+img.gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 58%;
+background: url(cglogogif.gif)
+}
+
+
+img.claregillen {
+position: absolute;
+left: 2%;
+right: 75.83%;
+top: 4.33%;
+bottom: 93.26%;
+width: 26%;
+}
+	
+
+img.work { 
+position: absolute;
+left: 2%;
+right: 93.08%;
+top: 11.42%;
+bottom: 88.9%;
+width: 5%
+}
+
+img.about { 
+position: absolute;
+left: 2%;
+right: 92.49%;
+top: 19.59%;
+bottom: 84.02%;
+width: 5.5%
+}
+
+img.LA {
+position: absolute;
+left: 2%;
+right: 88.47%;
+top: 27.77%;
+bottom: 78.59%;
+width: 11%;
+}
+
+img.email {
+position: absolute;
+left: 2%;
+right: 80.87%;
+top: 35.94%;
+bottom: 73.74%;
+width: 21%	
+}
+
+
+img.social {
+position: absolute;
+left: 2.2%;
+right: 92.22%;
+top: 44.12%;
+bottom: 69.41%;
+width: 6.2%	
+}
+
+img.insta {
+position: absolute;
+left: 2%;
+right: 87.05%;
+top: 47.62%;
+bottom: 65.88%;
+width: 13%;
+}
+
+img.gillyinsta {
+position: absolute;
+left: 2%;
+right: 87.03%;
+top: 51.62%;
+bottom: 63%;
+width: 13%;
+}
+	
+	
